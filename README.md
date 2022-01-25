@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sho-yamane&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sho-yamane&theme=monokai)
