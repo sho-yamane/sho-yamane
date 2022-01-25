@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sho-yamane&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sho-yamane&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sho-yamane&theme=github_dark)
